@@ -8,6 +8,8 @@ This project showcases an end-to-end data pipeline I developed to process, analy
 
 The pipeline simulates real-world workflows by dynamically integrating production tables with Power Query (Excel) to create a dynamic dashboard. This dashboard automatically updates with new data, offering actionable insights into healthcare operations, financial performance, and patient outcomes.
 
+This analysis examines a hospital's alarming 45.11% readmission rate—three times the national average—driven largely by chronic conditions like CHF, cancer, and HLD, which account for 86% of readmissions. With $63M in uncovered costs, 62% of which stem from uninsured care in ambulatory and urgent care settings, the findings highlight critical gaps in preventive care and chronic disease management. The dashboard provides actionable insights to address these challenges and reduce financial strain.
+
 ---
 
 ## **Key Features**
@@ -43,6 +45,7 @@ The pipeline simulates real-world workflows by dynamically integrating productio
 - Integrated MySQL production views with **Power Query (Excel)**:
   - Built a dynamic dashboard to visualize KPIs such as:
     - Average LOS by encounter type.
+    - Hospital spending metrics per medical episode.
     - Top medical reasons for readmissions.
     - Breakdown of non-covered claims and costs.
   - Designed for seamless updates, enabling real-time insights with every data refresh.
