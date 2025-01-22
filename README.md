@@ -1,4 +1,4 @@
-# **Healthcare Patient Record Data Pipeline with Python and MySQL**
+# **Healthcare Patient Records Data Pipeline**
 
 ---
 
