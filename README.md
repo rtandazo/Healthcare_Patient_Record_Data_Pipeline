@@ -1,4 +1,4 @@
-# **Hospital Patient Records Data Pipeline**
+# **Healthcare Patient Record Data Pipeline**
 
 ---
 
